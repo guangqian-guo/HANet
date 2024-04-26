@@ -2,7 +2,7 @@
 
 The core code of our paper: "Save the Tiny, Save the All: Hierarchical Activation Network for Tiny Object Detection" (TCSVT).
 
-*Note: This is not the complete code, we have only exposed part of the core implementation.*
+*Note: This is not the complete code, we have only realeased part of the core implementation.*
 
 
 
